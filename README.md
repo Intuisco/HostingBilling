@@ -10,8 +10,8 @@ PHP8, Laravel 9.4, Bootstrap v5.1
 # Developing Features
 
 Users Login__
-Users Registration__
-Roles__
+Users Registration  
+Roles<br />
 Currencies__
 Admin area__
 Domain order flow__
