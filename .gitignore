@@ -1,3 +1,8 @@
-
 .buildpath
 .settings/org.eclipse.php.core.prefs
+*.tar
+*.zip
+*.gzip
+*.gz
+.vscode
+.DS_Store
