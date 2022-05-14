@@ -9,19 +9,19 @@ PHP8, Laravel 9.4, Bootstrap v5.1
 
 # Developing Features
 
-Users Login__
+Users Login  
 Users Registration  
-Roles<br />
-Currencies__
-Admin area__
-Domain order flow__
-ResellerClub API integration__
-Multi-language__
-Frontend SEO by language__
-Integration with Google Analytics__
+Roles  
+Currencies  
+Admin area  
+Domain order flow  
+ResellerClub API integration  
+Multi-language  
+Frontend SEO by language  
+Integration with Google Analytics  
 
 # To Do
-Hosting order flow__
-VPS order flow__
-Integrate Cpanel__
-Integrate myVestaCp__
+Hosting order flow  
+VPS order flow  
+Integrate Cpanel  
+Integrate myVestaCp  
